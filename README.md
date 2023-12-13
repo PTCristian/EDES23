@@ -5,4 +5,4 @@ Este respositorio será público para ser utilizado durante las prácticas
 
 Los alumnos podrán clonar este repositorio y realizar modificaciones a su propio repositorio
 
-@CPT
+@FGM
